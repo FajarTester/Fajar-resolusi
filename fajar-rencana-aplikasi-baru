@@ -2,4 +2,7 @@ RENCANA APLIKASI BARU MENGGUNAKAN LIBARY, FRAMEWORK DAN DATABASE
 
 - FE (React)
 - BE (Express, Fiber)
-- DB (MongoDB)
+  ^ Go Fiber 
+  - Crud Jadwal Digital
+  - Crud Media Digital 
+- DB (MongoDB, Oracle)
