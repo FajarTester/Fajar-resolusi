@@ -4,6 +4,7 @@ RENCANA APLIKASI BARU MENGGUNAKAN LIBARY, FRAMEWORK DAN DATABASE
 - BE (Express, Fiber)
   Express >
   - Conection To Database
-  - Crud Arsip
-  - Routes Data Arsip
+  - Crud Arsip Digital
+  - Crud Jadwal Digital
+  - Routes Data Arsip Dan Jadwal Digital
 - DB (MongoDB)
